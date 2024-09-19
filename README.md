@@ -1,12 +1,12 @@
 # TruequeTools
 
-**TruequeTools** es un proyecto desarrollado como parte de la materia **Ingeniería de Software 2** de la carrera de **Análisis en Tecnologías de la Información y la Comunicación (ATIC)**.
+**TruequeTools** es un proyecto desarrollado como parte de la materia **Ingeniería de Software 2** de la carrera de **Análisis en Tecnologías de la Información y la Comunicación (ATIC)** de la UNLP.
 
 ## Descripción del Proyecto
 
-Este proyecto está enfocado en la creación de una **aplicación de trueques** que facilita el intercambio de productos entre usuarios. Los intercambios se llevan a cabo de manera física en una ferretería, donde los usuarios pueden gestionar, proponer y realizar trueques de manera eficiente.
+Este proyecto está enfocado en la creación de una **aplicación de trueques** que facilita el intercambio de productos entre usuarios.
 
-La aplicación está diseñada para ser utilizada tanto por los clientes como por los administradores de la ferretería, permitiendo llevar un control adecuado de los productos disponibles para el intercambio y las solicitudes de trueques en curso.
+La aplicación está diseñada para ser utilizada tanto por los clientes como por los administradores de la ferretería, permitiendo llevar un control adecuado de las publicaciones y las solicitudes de trueques en curso.
 
 ## Tecnologías Utilizadas
 
