@@ -1,29 +1,28 @@
 # TruequeTools
 
-**TruequeTools** es un proyecto desarrollado como parte de la materia **Ingeniería de Software 2** de la carrera de **Análisis en Tecnologías de la Información y la Comunicación (ATIC)** de la UNLP.
+**TruequeTools** is a project developed as part of the **Software Engineering 2** course in the **Analysis in Information and Communication Technologies (ATIC)** career at UNLP.
 
-## Descripción del Proyecto
+## Project Description
 
-Este proyecto está enfocado en la creación de una **aplicación de trueques** que facilita el intercambio de productos entre usuarios.
+This project focuses on creating a **bartering application** that facilitates product exchanges between users.
 
-La aplicación está diseñada para ser utilizada tanto por los clientes como por los administradores de la ferretería, permitiendo llevar un control adecuado de las publicaciones y las solicitudes de trueques en curso.
+The application is designed to be used by both customers and hardware store administrators, allowing efficient management of posts and ongoing bartering requests.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-Este proyecto está desarrollado utilizando las siguientes tecnologías:
+This project was developed using the following technologies:
 
-- **Backend**: Django con Django Rest Framework (DRF)
-  - DRF se utilizó para crear una API RESTful que permite manejar los recursos del sistema como usuarios, productos, solicitudes de trueque, etc.
-- **Base de datos**: SQLite 
+- **Backend**: Django with Django Rest Framework (DRF)
+  - DRF was used to create a RESTful API that manages system resources like users, products, bartering requests, etc.
+- **Database**: SQLite
 - **Frontend**: React
 
-## Algunas de las funcionalidades principales
+## Some of the Main Features
 
-- Gestión de usuarios, con roles diferenciados (clientes, empleados y administrador)
-- Gestión de productos disponibles para trueques
-- Creación, visualización y estado de solicitudes de trueque
-- Validación de trueques y confirmación de intercambios
-- Registro de un historial de solicitudes de intercambio
-- Panel de administración para gestionar la aplicación
-
+- User management with differentiated roles (customers, employees, and administrators)
+- Management of products available for bartering
+- Creation, viewing, and status tracking of bartering requests
+- Validation and confirmation of exchanges
+- Record of a history of bartering requests
+- Administration panel to manage the application
 
