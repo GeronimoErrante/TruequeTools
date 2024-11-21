@@ -14,3 +14,9 @@ from django.core.wsgi import get_wsgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'truequetools.settings')
 
 application = get_wsgi_application()
+
+if __name__ == "__main__":
+    from gunicorn.app.wsgiapp import run
+    run()
+
+
